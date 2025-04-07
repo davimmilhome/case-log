@@ -1,0 +1,2 @@
+from .monitoramento_entrega_parser import monitoramento_entrega_parser
+from .painel_erros_parser import painel_erros_parser
