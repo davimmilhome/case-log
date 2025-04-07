@@ -1,0 +1,1 @@
+from .base_monitoramento_entregas_service import base_monitoramento_entregas_service
